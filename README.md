@@ -1,4 +1,4 @@
-# CLJT: Web API Recommendation via Exploring Textual and Structural Semantics with Contrastive Learning and Joint Training
+## CLJT: Web API Recommendation via Exploring Textual and Structural Semantics with Contrastive Learning and Joint Training
 ### Introduction
 > To further improve the recommendation performance, this paper proposes an effective Web API recommendation approach via exploring textual and structural semantics with contrastive learning and joint training, named CLJT. 
 ### Environment Requirment
