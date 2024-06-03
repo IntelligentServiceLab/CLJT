@@ -15,13 +15,13 @@
 
 ### Example to run CLJT
  - Command`python train.py`  
- - log
- - >    开始训练    
-存在训练数据，正在加载     
-存在测试数据，正在加载    
- 10%|▉         | 997/10000 [00:09<10:27, 103.24it/s]
+ - Train log:
+>   开始训练    
+    存在训练数据，正在加载     
+    存在测试数据，正在加载    
+    10%|▉         | 997/10000 [00:09<10:27, 103.24it/s]
    
-NOTE : the duration of training and testing depends on the running environment.
+NOTE : the duration of training and testing depends on the running environment.    
 Train environment is on CPU AMD R5 5600x GPU RTX4060ti. 
 
 
