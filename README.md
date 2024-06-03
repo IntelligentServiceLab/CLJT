@@ -36,5 +36,5 @@ Train environment is on CPU AMD R5 5600x GPU RTX4060ti.
 > This file is the model training file.
 5. dataset.py
 > This file contains the dataset loading code.
-6. you need to download uncased-bert to the root of this item.
-
+6. you need to download uncased-bert to the root of this item.     
+7.data is available in [here](https://pan.baidu.com/s/16fvcMfva8mew662O4XvIAQ?pwd=8mam)
