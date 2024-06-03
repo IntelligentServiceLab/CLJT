@@ -22,10 +22,10 @@ NOTE : the duration of training and testing depends on the running environment.
 
 
 ### File Introduction
-1. model.py 
-2. sanfm.py
-3. utils.py
-4. train.py
-5. dataset.py
+1. model.py > This file contains the code of CLJT.
+2. sanfm.py > This file contains the code of sanfm.
+3. utils.py > This file contains the founction used in the item.
+4. train.py > This file is the model training file.
+5. dataset.py > This file contains the dataset loading code.
 6. you need to download uncased-bert to the root og this item
 
