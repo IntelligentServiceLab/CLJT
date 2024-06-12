@@ -54,9 +54,9 @@ class SANFM(nn.Module):
     def _init_weight_(self):
         """初始化模型参数"""
         # dense embedding
-        nn.init.normal_(self.dense_embed.weight, std=0.01)
+        nn.init.normal_(self.dense_embed.weight, std=0.1)
         # pairwise interaction pooling
-        nn.init.normal_(self.pairwise_inter_v, std=0.01)
+        nn.init.normal_(self.pairwise_inter_v, std=0.1)
         # deep layers
         nn.init.kaiming_normal_(self.hidden_1.weight)
         nn.init.kaiming_normal_(self.hidden_2.weight)
