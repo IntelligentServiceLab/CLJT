@@ -1,4 +1,6 @@
-## CLJT: Web API Recommendation via Exploring Textual and Structural Semantics with Contrastive Learning and Joint Training
+This repository is the Python implementation for the following paper:
+> Guosheng Kang, Hongshuai Ren, Wanjun Chen, Jianxun Liu*, Buqing Cao, Yu Xu. Web API Recommendation via Exploring Textual and Structural Semantics with Contrastive Learning and Joint Training. IEEE Transactions on Network and Service Management, Vol. 22, No. 2, pp. 1558-1568, 2025.
+
 ### Introduction
 > To further improve the recommendation performance, this paper proposes an effective Web API recommendation approach via exploring textual and structural semantics with contrastive learning and joint training, named CLJT. 
 ### Environment Requirment
