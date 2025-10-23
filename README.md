@@ -40,3 +40,6 @@ Train environment is on CPU AMD R5 5600x GPU RTX4060ti.
 > This file contains the dataset loading code.
 6. you need to download uncased-bert to the root of this item.    
 7. data is available in [here](https://pan.baidu.com/s/1vXr_n8ecpBvWp5SX4K3fWg?pwd=q55v)
+
+## Contact
+Email：541783334@qq.com (Hongshuai Ren)
